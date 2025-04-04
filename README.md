@@ -1,3 +1,5 @@
+![GitHub Downloads](https://img.shields.io/github/downloads/ENT510/LGF_PedBoneTool/total?logo=github)
+![GitHub Release](https://img.shields.io/github/v/release/ENT510/LGF_PedBoneTool?logo=github)
 
  # LGF Ped Bone Tool
  
