@@ -11,5 +11,5 @@ function Shared.debug(type, ...)
 end
 
 if IsDuplicityVersion() then
-    lib.versionCheck('ENT510/LGF_UiPack')
+    lib.versionCheck('ENT510/LGF_PedBoneTool')
 end
